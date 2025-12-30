@@ -13,7 +13,7 @@
   "author": "Sarthak Singh",
   "license": "MIT",
   "scripts": {
-    "test": "npm test"
+    "test": "echo \"No tests specified\" && exit 0"
   },
   "repository": {
     "type": "git",
