@@ -1,6 +1,6 @@
 {
   "name": "rsa-hybrid-crypto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple RSA public/private key encryption and descryption utilities",
   "main": "index.js",
   "type": "module",
