@@ -1,0 +1,26 @@
+{
+  "name": "rsa-hybrid-crypto",
+  "version": "1.0.0",
+  "description": "Simple RSA public/private key encryption and descryption utilities",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "rsa",
+    "encryption",
+    "crypto",
+    "security"
+  ],
+  "author": "Sarthak Singh",
+  "license": "MIT",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthsksingh077/rsa-hybrid-crypto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sarthsksingh077/rsa-hybrid-crypto/issues"
+  },
+  "homepage": "https://github.com/sarthsksingh077/rsa-hybrid-crypto#readme"
+}
